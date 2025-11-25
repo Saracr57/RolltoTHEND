@@ -51,3 +51,5 @@ def parallax(parallax):
 
         if abs(layer['pos']) > ANCHO:
             layer['pos'] = 0                       
+
+          
